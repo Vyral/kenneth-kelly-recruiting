@@ -10,13 +10,15 @@ custom_links:
   - title: Free Strategy Call
     url: /contact/
 client:
-  name: Kenneth Kelly
+  name: KW Ireland
   title:
   license_number:
   about_markdown: |
-    "A worldwide revolution in over 40 countries with 190,000 associates, changing the property industry for the better on step at a time" - Keller Williams
+    While Keller Williams has been operating in the US since 1983, and is the world’s largest estate agency with more than 190,000 agents across 1000 market centres in 38+ countries, we are new to the Irish Market
 
-    "You can tell Kenneth is a different kind of agent from the first time you meet him. Polite, respectful, sharp - he's someone who's not only a professional (and clearly good at what he does), but Ken is the kind of person you know has your back too. I've met agents who walk into a room and say the same thing they've said to probably everyone else they've met that day, Kenneth actually wants to know about you and wants to understand how he fits into your plans - all before offering any service or advice. A REAL estate agent, I can recommend him highly enough." - A satisfied client
+    Keller Williams. is the world’s largest real estate franchise by agent count and largest in the U.S. by units sold and sales volume, with over 1,000 offices and 180,000 associates across the the Americas, Europe, Africa and Asia.
+
+    The company has grown exponentially since the opening of the first Keller Williams Realty office in 1983, and continues to cultivate an agent-centric, education-based, technology-driven culture that rewards associates as stakeholders.
   market: Dublin
   brand: KW Ireland - Keller Williams
   brokerage:
@@ -25,7 +27,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Kenneth.kelly@kwireland.com
+  email: info@KWIreland.com
   url: http://kennethkcoaching.com
 
 sidebar_CTA:
